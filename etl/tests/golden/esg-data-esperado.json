@@ -1,0 +1,87 @@
+{
+  "versao": 1,
+  "geradoEm": "2026-09-02",
+  "referenciaCvm": "FRE 2025",
+  "empresas": [
+    {
+      "cnpj": "71.673.990/0001-77",
+      "razaoSocial": "NATURA COSMETICOS SA",
+      "nomeExibicao": "Natura",
+      "nomeNormalizado": "natura",
+      "aliases": [
+        "natura",
+        "natura cosmeticos"
+      ],
+      "setor": "Farmacêutico e Higiene",
+      "selos": [
+        "ISE_B3_2026"
+      ],
+      "dimensoes": [
+        {
+          "tipo": "AMBIENTAL",
+          "semaforo": "VERDE",
+          "pontuacao": 100.0,
+          "indicadores": [
+            {
+              "id": "indice_sustentabilidade_b3",
+              "rotulo": "Integra índice de sustentabilidade da B3",
+              "valor": 1.0,
+              "unidade": "BOOLEANO",
+              "percentilSetor": null,
+              "medianaSetor": null,
+              "comparacaoSetorial": false,
+              "direcao": "MAIOR_MELHOR",
+              "fonte": "Carteira ISE B3 2026"
+            }
+          ]
+        },
+        {
+          "tipo": "SOCIAL",
+          "semaforo": "SEM_DADOS",
+          "pontuacao": null,
+          "indicadores": [
+            {
+              "id": "mulheres_conselho",
+              "rotulo": "Mulheres no Conselho de Administração",
+              "valor": 25.0,
+              "unidade": "PERCENTUAL",
+              "percentilSetor": null,
+              "medianaSetor": null,
+              "comparacaoSetorial": false,
+              "direcao": "MAIOR_MELHOR",
+              "fonte": "Formulário de Referência CVM, exercício 2025"
+            },
+            {
+              "id": "negros_lideranca",
+              "rotulo": "Pessoas negras na liderança",
+              "valor": 13.76,
+              "unidade": "PERCENTUAL",
+              "percentilSetor": null,
+              "medianaSetor": null,
+              "comparacaoSetorial": false,
+              "direcao": "MAIOR_MELHOR",
+              "fonte": "Formulário de Referência CVM, exercício 2025"
+            },
+            {
+              "id": "gap_racial",
+              "rotulo": "Queda da diversidade racial na liderança",
+              "valor": 21.4,
+              "unidade": "PERCENTUAL",
+              "percentilSetor": null,
+              "medianaSetor": null,
+              "comparacaoSetorial": false,
+              "direcao": "MENOR_MELHOR",
+              "fonte": "Formulário de Referência CVM, exercício 2025"
+            }
+          ]
+        },
+        {
+          "tipo": "GOVERNANCA",
+          "semaforo": "SEM_DADOS",
+          "pontuacao": null,
+          "indicadores": []
+        }
+      ]
+    }
+  ]
+}

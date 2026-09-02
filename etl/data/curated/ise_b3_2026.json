@@ -1,0 +1,281 @@
+{
+  "carteira": "ISE_B3_2026",
+  "empresas": [
+    {
+      "nome": "Allos",
+      "cnpj": null
+    },
+    {
+      "nome": "Auren",
+      "cnpj": "28.594.234/0001-23"
+    },
+    {
+      "nome": "Axia Energia",
+      "cnpj": "00.001.180/0001-26"
+    },
+    {
+      "nome": "Azzas 2154",
+      "cnpj": null
+    },
+    {
+      "nome": "B3",
+      "cnpj": null
+    },
+    {
+      "nome": "Banco do Brasil",
+      "cnpj": null
+    },
+    {
+      "nome": "Bradesco",
+      "cnpj": "60.746.948/0001-12"
+    },
+    {
+      "nome": "Bradsaúde",
+      "cnpj": null
+    },
+    {
+      "nome": "Braskem",
+      "cnpj": null
+    },
+    {
+      "nome": "BTG Pactual",
+      "cnpj": "30.306.294/0001-45"
+    },
+    {
+      "nome": "C&A Modas",
+      "cnpj": null
+    },
+    {
+      "nome": "Cemig",
+      "cnpj": "17.155.730/0001-64"
+    },
+    {
+      "nome": "Cia Brasileira de Alumínio",
+      "cnpj": "61.409.892/0001-73"
+    },
+    {
+      "nome": "Cogna Educação",
+      "cnpj": null
+    },
+    {
+      "nome": "Copasa",
+      "cnpj": "17.281.106/0001-03"
+    },
+    {
+      "nome": "Copel",
+      "cnpj": "76.483.817/0001-20"
+    },
+    {
+      "nome": "Cosan",
+      "cnpj": null
+    },
+    {
+      "nome": "CPFL",
+      "cnpj": "02.429.144/0001-93"
+    },
+    {
+      "nome": "Cyrela",
+      "cnpj": null
+    },
+    {
+      "nome": "Dexco",
+      "cnpj": null
+    },
+    {
+      "nome": "Ecorodovias",
+      "cnpj": "04.149.454/0001-80"
+    },
+    {
+      "nome": "Eneva",
+      "cnpj": null
+    },
+    {
+      "nome": "Engie",
+      "cnpj": null
+    },
+    {
+      "nome": "Equatorial",
+      "cnpj": "03.220.438/0001-73"
+    },
+    {
+      "nome": "Fleury",
+      "cnpj": null
+    },
+    {
+      "nome": "Hidrovias do Brasil",
+      "cnpj": null
+    },
+    {
+      "nome": "Iguatemi",
+      "cnpj": "60.543.816/0001-93"
+    },
+    {
+      "nome": "Iochpe Maxion",
+      "cnpj": null
+    },
+    {
+      "nome": "Irani Papel e Embalagem",
+      "cnpj": null
+    },
+    {
+      "nome": "ISA Energia",
+      "cnpj": null
+    },
+    {
+      "nome": "Itaú Unibanco",
+      "cnpj": null
+    },
+    {
+      "nome": "Itausa",
+      "cnpj": null
+    },
+    {
+      "nome": "JSL",
+      "cnpj": null
+    },
+    {
+      "nome": "Klabin",
+      "cnpj": null
+    },
+    {
+      "nome": "Lojas Quero-Quero",
+      "cnpj": "96.418.264/0218-02"
+    },
+    {
+      "nome": "Lojas Renner",
+      "cnpj": null
+    },
+    {
+      "nome": "M. Dias Branco",
+      "cnpj": null
+    },
+    {
+      "nome": "Magazine Luiza",
+      "cnpj": null
+    },
+    {
+      "nome": "Marfrig",
+      "cnpj": null
+    },
+    {
+      "nome": "Mills",
+      "cnpj": null
+    },
+    {
+      "nome": "Minerva",
+      "cnpj": null
+    },
+    {
+      "nome": "Mitre Realty",
+      "cnpj": null
+    },
+    {
+      "nome": "Motiva",
+      "cnpj": null
+    },
+    {
+      "nome": "Movida",
+      "cnpj": null
+    },
+    {
+      "nome": "MRV",
+      "cnpj": null
+    },
+    {
+      "nome": "Natura",
+      "cnpj": null
+    },
+    {
+      "nome": "Ocean Pact",
+      "cnpj": "09.114.805/0001-30"
+    },
+    {
+      "nome": "Pague Menos",
+      "cnpj": null
+    },
+    {
+      "nome": "Portobello",
+      "cnpj": null
+    },
+    {
+      "nome": "Porto Seguro",
+      "cnpj": null
+    },
+    {
+      "nome": "Raia Drogasil",
+      "cnpj": null
+    },
+    {
+      "nome": "Riachuelo",
+      "cnpj": "08.402.943/0001-52"
+    },
+    {
+      "nome": "Rumo",
+      "cnpj": "02.387.241/0001-60"
+    },
+    {
+      "nome": "Sabesp",
+      "cnpj": "43.776.517/0001-80"
+    },
+    {
+      "nome": "Sanepar",
+      "cnpj": null
+    },
+    {
+      "nome": "Santander",
+      "cnpj": null
+    },
+    {
+      "nome": "Sendas",
+      "cnpj": null
+    },
+    {
+      "nome": "Simpar",
+      "cnpj": null
+    },
+    {
+      "nome": "SLC Agrícola",
+      "cnpj": null
+    },
+    {
+      "nome": "Tegma",
+      "cnpj": null
+    },
+    {
+      "nome": "Telefônica",
+      "cnpj": null
+    },
+    {
+      "nome": "Tim",
+      "cnpj": "02.421.421/0001-11"
+    },
+    {
+      "nome": "Três Tentos",
+      "cnpj": null
+    },
+    {
+      "nome": "Ultrapar",
+      "cnpj": null
+    },
+    {
+      "nome": "Usiminas",
+      "cnpj": null
+    },
+    {
+      "nome": "Vamos",
+      "cnpj": null
+    },
+    {
+      "nome": "Vibra",
+      "cnpj": null
+    },
+    {
+      "nome": "Weg",
+      "cnpj": null
+    },
+    {
+      "nome": "Yduqs",
+      "cnpj": null
+    }
+  ]
+}

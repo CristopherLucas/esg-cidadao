@@ -1,0 +1,7 @@
+etl/.venv/
+etl/data/raw/
+__pycache__/
+.pytest_cache/
+*.pyc
+.coverage
+htmlcov/

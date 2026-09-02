@@ -1,0 +1,419 @@
+[
+  {
+    "cnpj": "02.800.026/0001-40",
+    "nomeExibicao": "Anhanguera e Kroton",
+    "aliases": [
+      "cogna",
+      "anhanguera",
+      "kroton",
+      "pitagoras"
+    ]
+  },
+  {
+    "cnpj": "16.590.234/0001-76",
+    "nomeExibicao": "Arezzo e Reserva",
+    "aliases": [
+      "azzas",
+      "arezzo",
+      "reserva",
+      "schutz"
+    ]
+  },
+  {
+    "cnpj": "06.057.223/0001-71",
+    "nomeExibicao": "Assaí",
+    "aliases": [
+      "assai",
+      "sendas"
+    ]
+  },
+  {
+    "cnpj": "09.305.994/0001-29",
+    "nomeExibicao": "Azul",
+    "aliases": [
+      "azul"
+    ]
+  },
+  {
+    "cnpj": "00.000.000/0001-91",
+    "nomeExibicao": "Banco do Brasil",
+    "aliases": [
+      "banco do brasil",
+      "bb"
+    ]
+  },
+  {
+    "cnpj": "60.746.948/0001-12",
+    "nomeExibicao": "Bradesco",
+    "aliases": [
+      "bradesco"
+    ]
+  },
+  {
+    "cnpj": "42.150.391/0001-70",
+    "nomeExibicao": "Braskem",
+    "aliases": [
+      "braskem"
+    ]
+  },
+  {
+    "cnpj": "45.242.914/0001-05",
+    "nomeExibicao": "C&A",
+    "aliases": [
+      "c&a",
+      "ca modas"
+    ]
+  },
+  {
+    "cnpj": "64.904.295/0001-03",
+    "nomeExibicao": "Camil e União",
+    "aliases": [
+      "camil",
+      "uniao",
+      "coqueiro"
+    ]
+  },
+  {
+    "cnpj": "33.041.260/0652-90",
+    "nomeExibicao": "Casas Bahia e Ponto",
+    "aliases": [
+      "casas bahia",
+      "ponto frio",
+      "via"
+    ]
+  },
+  {
+    "cnpj": "17.155.730/0001-64",
+    "nomeExibicao": "Cemig",
+    "aliases": [
+      "cemig"
+    ]
+  },
+  {
+    "cnpj": "01.027.058/0001-91",
+    "nomeExibicao": "Cielo",
+    "aliases": [
+      "cielo"
+    ]
+  },
+  {
+    "cnpj": "76.483.817/0001-20",
+    "nomeExibicao": "Copel",
+    "aliases": [
+      "copel"
+    ]
+  },
+  {
+    "cnpj": "73.178.600/0001-18",
+    "nomeExibicao": "Cyrela",
+    "aliases": [
+      "cyrela"
+    ]
+  },
+  {
+    "cnpj": "61.585.865/0001-51",
+    "nomeExibicao": "Droga Raia e Drogasil",
+    "aliases": [
+      "raia",
+      "drogasil",
+      "droga raia",
+      "raia drogasil"
+    ]
+  },
+  {
+    "cnpj": "07.689.002/0001-89",
+    "nomeExibicao": "Embraer",
+    "aliases": [
+      "embraer"
+    ]
+  },
+  {
+    "cnpj": "08.807.432/0001-10",
+    "nomeExibicao": "Estácio",
+    "aliases": [
+      "yduqs",
+      "estacio"
+    ]
+  },
+  {
+    "cnpj": "60.840.055/0001-31",
+    "nomeExibicao": "Fleury",
+    "aliases": [
+      "fleury",
+      "a+",
+      "weinmann"
+    ]
+  },
+  {
+    "cnpj": "02.916.265/0001-60",
+    "nomeExibicao": "Friboi e Seara",
+    "aliases": [
+      "jbs",
+      "friboi",
+      "seara",
+      "swift"
+    ]
+  },
+  {
+    "cnpj": "61.079.117/0001-05",
+    "nomeExibicao": "Havaianas",
+    "aliases": [
+      "alpargatas",
+      "havaianas",
+      "osklen"
+    ]
+  },
+  {
+    "cnpj": "33.256.439/0001-39",
+    "nomeExibicao": "Ipiranga",
+    "aliases": [
+      "ipiranga",
+      "ultrapar",
+      "ultragaz"
+    ]
+  },
+  {
+    "cnpj": "60.872.504/0001-23",
+    "nomeExibicao": "Itaú",
+    "aliases": [
+      "itau",
+      "itau unibanco",
+      "unibanco"
+    ]
+  },
+  {
+    "cnpj": "89.637.490/0001-45",
+    "nomeExibicao": "Klabin",
+    "aliases": [
+      "klabin"
+    ]
+  },
+  {
+    "cnpj": "16.670.085/0001-55",
+    "nomeExibicao": "Localiza",
+    "aliases": [
+      "localiza"
+    ]
+  },
+  {
+    "cnpj": "47.960.950/0001-21",
+    "nomeExibicao": "Magazine Luiza",
+    "aliases": [
+      "magazine luiza",
+      "magalu"
+    ]
+  },
+  {
+    "cnpj": "03.853.896/0001-40",
+    "nomeExibicao": "Marfrig",
+    "aliases": [
+      "marfrig",
+      "bassi"
+    ]
+  },
+  {
+    "cnpj": "89.850.341/0001-60",
+    "nomeExibicao": "Melissa e Ipanema",
+    "aliases": [
+      "grendene",
+      "melissa",
+      "ipanema",
+      "rider"
+    ]
+  },
+  {
+    "cnpj": "67.620.377/0001-14",
+    "nomeExibicao": "Minerva",
+    "aliases": [
+      "minerva",
+      "pul"
+    ]
+  },
+  {
+    "cnpj": "21.314.559/0001-66",
+    "nomeExibicao": "Movida",
+    "aliases": [
+      "movida"
+    ]
+  },
+  {
+    "cnpj": "08.343.492/0001-20",
+    "nomeExibicao": "MRV",
+    "aliases": [
+      "mrv"
+    ]
+  },
+  {
+    "cnpj": "71.673.990/0001-77",
+    "nomeExibicao": "Natura",
+    "aliases": [
+      "natura",
+      "natura cosmeticos"
+    ]
+  },
+  {
+    "cnpj": "02.932.074/0001-91",
+    "nomeExibicao": "Neosaldina e Buscopan",
+    "aliases": [
+      "hypera",
+      "neosaldina",
+      "buscopan",
+      "engov",
+      "benegrip"
+    ]
+  },
+  {
+    "cnpj": "06.626.253/0001-51",
+    "nomeExibicao": "Pague Menos",
+    "aliases": [
+      "pague menos"
+    ]
+  },
+  {
+    "cnpj": "33.000.167/0001-01",
+    "nomeExibicao": "Petrobras",
+    "aliases": [
+      "petrobras",
+      "petroleo brasileiro"
+    ]
+  },
+  {
+    "cnpj": "07.206.816/0001-15",
+    "nomeExibicao": "Piraquê e Vitarella",
+    "aliases": [
+      "m dias branco",
+      "piraque",
+      "vitarella",
+      "adria"
+    ]
+  },
+  {
+    "cnpj": "02.149.205/0001-69",
+    "nomeExibicao": "Porto Seguro",
+    "aliases": [
+      "porto seguro",
+      "porto"
+    ]
+  },
+  {
+    "cnpj": "34.274.233/0001-02",
+    "nomeExibicao": "Posto BR",
+    "aliases": [
+      "vibra",
+      "posto br",
+      "petrobras distribuidora"
+    ]
+  },
+  {
+    "cnpj": "96.418.264/0218-02",
+    "nomeExibicao": "Quero-Quero",
+    "aliases": [
+      "quero quero",
+      "quero-quero"
+    ]
+  },
+  {
+    "cnpj": "92.754.738/0001-62",
+    "nomeExibicao": "Renner",
+    "aliases": [
+      "renner",
+      "lojas renner"
+    ]
+  },
+  {
+    "cnpj": "08.402.943/0001-52",
+    "nomeExibicao": "Riachuelo",
+    "aliases": [
+      "riachuelo",
+      "guararapes"
+    ]
+  },
+  {
+    "cnpj": "43.776.517/0001-80",
+    "nomeExibicao": "Sabesp",
+    "aliases": [
+      "sabesp"
+    ]
+  },
+  {
+    "cnpj": "01.838.723/0001-27",
+    "nomeExibicao": "Sadia e Perdigão",
+    "aliases": [
+      "brf",
+      "sadia",
+      "perdigao",
+      "qualy"
+    ]
+  },
+  {
+    "cnpj": "90.400.888/0001-42",
+    "nomeExibicao": "Santander",
+    "aliases": [
+      "santander"
+    ]
+  },
+  {
+    "cnpj": "07.526.557/0001-00",
+    "nomeExibicao": "Skol, Brahma e Antarctica",
+    "aliases": [
+      "ambev",
+      "skol",
+      "brahma",
+      "antarctica",
+      "guarana"
+    ]
+  },
+  {
+    "cnpj": "89.096.457/0001-55",
+    "nomeExibicao": "SLC Agrícola",
+    "aliases": [
+      "slc",
+      "slc agricola"
+    ]
+  },
+  {
+    "cnpj": "16.404.287/0001-55",
+    "nomeExibicao": "Suzano",
+    "aliases": [
+      "suzano",
+      "neve",
+      "mimmo"
+    ]
+  },
+  {
+    "cnpj": "02.421.421/0001-11",
+    "nomeExibicao": "TIM",
+    "aliases": [
+      "tim"
+    ]
+  },
+  {
+    "cnpj": "60.894.730/0001-05",
+    "nomeExibicao": "Usiminas",
+    "aliases": [
+      "usiminas"
+    ]
+  },
+  {
+    "cnpj": "33.592.510/0001-54",
+    "nomeExibicao": "Vale",
+    "aliases": [
+      "vale"
+    ]
+  },
+  {
+    "cnpj": "02.558.157/0001-62",
+    "nomeExibicao": "Vivo",
+    "aliases": [
+      "vivo",
+      "telefonica"
+    ]
+  },
+  {
+    "cnpj": "84.429.695/0001-11",
+    "nomeExibicao": "Weg",
+    "aliases": [
+      "weg"
+    ]
+  }
+]

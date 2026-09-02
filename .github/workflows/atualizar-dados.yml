@@ -1,0 +1,71 @@
+name: Atualizar dados da CVM
+
+# A CVM republica o Formulário de Referência semanalmente. Este workflow
+# reexecuta o ETL, e o GitHub Pages republica o JSON que o app consome.
+on:
+  schedule:
+    - cron: "0 6 * * 1"   # toda segunda-feira, 06:00 UTC (03:00 em Brasília)
+  workflow_dispatch:       # permite rodar à mão pela aba Actions
+
+permissions:
+  contents: write
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar o ETL
+        working-directory: etl
+        run: pip install -e ".[dev]"
+
+      - name: Rodar os testes antes de publicar
+        working-directory: etl
+        run: python -m pytest -q
+
+      - name: Baixar os datasets da CVM
+        working-directory: etl
+        run: |
+          python -c "
+          import zipfile
+          from pathlib import Path
+          from esg_etl.download import FONTES, baixar
+          raw = Path('data/raw')
+          baixar(FONTES['cadastro'], raw / 'cad_cia_aberta.csv')
+          zipfile.ZipFile(baixar(FONTES['fre'], raw / 'fre.zip')).extractall(raw / 'fre')
+          "
+
+      - name: Gerar o dataset
+        working-directory: etl
+        run: python -m esg_etl.build
+
+      - name: Conferir se o resultado faz sentido
+        run: |
+          python - <<'PY'
+          import json, sys
+          from pathlib import Path
+          d = json.loads(Path("docs/data/esg-data.json").read_text(encoding="utf-8"))
+          n = len(d["empresas"])
+          # Guarda contra publicar um dataset quebrado: se a CVM mudar o layout
+          # dos CSVs, o ETL pode gerar um arquivo vazio sem lançar erro.
+          if n < 30:
+              sys.exit(f"Apenas {n} empresas no dataset — algo quebrou, nada será publicado.")
+          print(f"{n} empresas, gerado em {d['geradoEm']}")
+          PY
+
+      - name: Commitar se houve mudança
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/data/esg-data.json
+          if git diff --staged --quiet; then
+            echo "Nenhuma mudança nos dados da CVM."
+          else
+            git commit -m "chore(dados): atualizar dataset a partir da CVM"
+            git push
+          fi
