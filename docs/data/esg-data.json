@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "geradoEm": "2026-10-19",
+  "geradoEm": "2026-10-26",
   "referenciaCvm": "FRE 2025",
   "empresas": [
     {
@@ -40,7 +40,7 @@
         {
           "tipo": "SOCIAL",
           "semaforo": "VERDE",
-          "pontuacao": 66.5,
+          "pontuacao": 66.8,
           "indicadores": [
             {
               "id": "mulheres_conselho",
@@ -59,7 +59,7 @@
               "valor": 30.94,
               "unidade": "PERCENTUAL",
               "percentilSetor": 62,
-              "medianaSetor": 23.11,
+              "medianaSetor": 23.32,
               "comparacaoSetorial": false,
               "direcao": "MAIOR_MELHOR",
               "fonte": "Formulário de Referência CVM, exercício 2025"
@@ -69,8 +69,8 @@
               "rotulo": "Queda da diversidade racial na liderança",
               "valor": 8.55,
               "unidade": "PERCENTUAL",
-              "percentilSetor": 75,
-              "medianaSetor": 16.39,
+              "percentilSetor": 76,
+              "medianaSetor": 16.4,
               "comparacaoSetorial": false,
               "direcao": "MENOR_MELHOR",
               "fonte": "Formulário de Referência CVM, exercício 2025"
@@ -81,7 +81,7 @@
               "valor": 1.78,
               "unidade": "PERCENTUAL",
               "percentilSetor": 45,
-              "medianaSetor": 2.25,
+              "medianaSetor": 2.26,
               "comparacaoSetorial": false,
               "direcao": "MAIOR_MELHOR",
               "fonte": "Formulário de Referência CVM, exercício 2025"
@@ -99,7 +99,7 @@
               "valor": 4.15,
               "unidade": "RAZAO",
               "percentilSetor": 31,
-              "medianaSetor": 2.63,
+              "medianaSetor": 2.64,
               "comparacaoSetorial": false,
               "direcao": "MENOR_MELHOR",
               "fonte": "Formulário de Referência CVM, exercício 2025"
@@ -432,7 +432,7 @@
               "valor": 23.32,
               "unidade": "PERCENTUAL",
               "percentilSetor": 50,
-              "medianaSetor": 23.11,
+              "medianaSetor": 23.32,
               "comparacaoSetorial": false,
               "direcao": "MAIOR_MELHOR",
               "fonte": "Formulário de Referência CVM, exercício 2025"
@@ -443,7 +443,7 @@
               "valor": 11.05,
               "unidade": "PERCENTUAL",
               "percentilSetor": 67,
-              "medianaSetor": 16.39,
+              "medianaSetor": 16.4,
               "comparacaoSetorial": false,
               "direcao": "MENOR_MELHOR",
               "fonte": "Formulário de Referência CVM, exercício 2025"
@@ -454,7 +454,7 @@
               "valor": 1.6,
               "unidade": "PERCENTUAL",
               "percentilSetor": 42,
-              "medianaSetor": 2.25,
+              "medianaSetor": 2.26,
               "comparacaoSetorial": false,
               "direcao": "MAIOR_MELHOR",
               "fonte": "Formulário de Referência CVM, exercício 2025"
@@ -472,7 +472,7 @@
               "valor": 6.25,
               "unidade": "RAZAO",
               "percentilSetor": 17,
-              "medianaSetor": 2.63,
+              "medianaSetor": 2.64,
               "comparacaoSetorial": false,
               "direcao": "MENOR_MELHOR",
               "fonte": "Formulário de Referência CVM, exercício 2025"
@@ -797,7 +797,7 @@
         {
           "tipo": "SOCIAL",
           "semaforo": "AMARELO",
-          "pontuacao": 34.2,
+          "pontuacao": 34.0,
           "indicadores": [
             {
               "id": "mulheres_conselho",
@@ -816,7 +816,7 @@
               "valor": 12.46,
               "unidade": "PERCENTUAL",
               "percentilSetor": 26,
-              "medianaSetor": 23.11,
+              "medianaSetor": 23.32,
               "comparacaoSetorial": false,
               "direcao": "MAIOR_MELHOR",
               "fonte": "Formulário de Referência CVM, exercício 2025"
@@ -827,7 +827,7 @@
               "valor": 18.22,
               "unidade": "PERCENTUAL",
               "percentilSetor": 42,
-              "medianaSetor": 16.39,
+              "medianaSetor": 16.4,
               "comparacaoSetorial": false,
               "direcao": "MENOR_MELHOR",
               "fonte": "Formulário de Referência CVM, exercício 2025"
@@ -837,8 +837,8 @@
               "rotulo": "Empregados com deficiência",
               "valor": 0.45,
               "unidade": "PERCENTUAL",
-              "percentilSetor": 23,
-              "medianaSetor": 2.25,
+              "percentilSetor": 22,
+              "medianaSetor": 2.26,
               "comparacaoSetorial": false,
               "direcao": "MAIOR_MELHOR",
               "fonte": "Formulário de Referência CVM, exercício 2025"
@@ -856,7 +856,7 @@
               "valor": 2.65,
               "unidade": "RAZAO",
               "percentilSetor": 49,
-              "medianaSetor": 2.63,
+              "medianaSetor": 2.64,
               "comparacaoSetorial": false,
               "direcao": "MENOR_MELHOR",
               "fonte": "Formulário de Referência CVM, exercício 2025"
@@ -1126,7 +1126,7 @@
     },
     {
       "cnpj": "33.041.260/0652-90",
-      "razaoSocial": "GRUPO CASAS BAHIA S.A.",
+      "razaoSocial": "GRUPO CASAS BAHIA S.A. - EM RECUPERAÇÃO JUDICIAL",
       "nomeExibicao": "Casas Bahia e Ponto",
       "nomeNormalizado": "casas bahia e ponto",
       "aliases": [
@@ -1399,7 +1399,7 @@
               "valor": 22.42,
               "unidade": "PERCENTUAL",
               "percentilSetor": 49,
-              "medianaSetor": 23.11,
+              "medianaSetor": 23.32,
               "comparacaoSetorial": false,
               "direcao": "MAIOR_MELHOR",
               "fonte": "Formulário de Referência CVM, exercício 2025"
@@ -1410,7 +1410,7 @@
               "valor": 14.54,
               "unidade": "PERCENTUAL",
               "percentilSetor": 57,
-              "medianaSetor": 16.39,
+              "medianaSetor": 16.4,
               "comparacaoSetorial": false,
               "direcao": "MENOR_MELHOR",
               "fonte": "Formulário de Referência CVM, exercício 2025"
@@ -1421,7 +1421,7 @@
               "valor": 3.42,
               "unidade": "PERCENTUAL",
               "percentilSetor": 65,
-              "medianaSetor": 2.25,
+              "medianaSetor": 2.26,
               "comparacaoSetorial": false,
               "direcao": "MAIOR_MELHOR",
               "fonte": "Formulário de Referência CVM, exercício 2025"
@@ -2031,7 +2031,7 @@
               "valor": 37.94,
               "unidade": "PERCENTUAL",
               "percentilSetor": 75,
-              "medianaSetor": 23.11,
+              "medianaSetor": 23.32,
               "comparacaoSetorial": false,
               "direcao": "MAIOR_MELHOR",
               "fonte": "Formulário de Referência CVM, exercício 2025"
@@ -2042,7 +2042,7 @@
               "valor": 4.1,
               "unidade": "PERCENTUAL",
               "percentilSetor": 84,
-              "medianaSetor": 16.39,
+              "medianaSetor": 16.4,
               "comparacaoSetorial": false,
               "direcao": "MENOR_MELHOR",
               "fonte": "Formulário de Referência CVM, exercício 2025"
@@ -2053,7 +2053,7 @@
               "valor": 3.83,
               "unidade": "PERCENTUAL",
               "percentilSetor": 72,
-              "medianaSetor": 2.25,
+              "medianaSetor": 2.26,
               "comparacaoSetorial": false,
               "direcao": "MAIOR_MELHOR",
               "fonte": "Formulário de Referência CVM, exercício 2025"
@@ -2071,7 +2071,7 @@
               "valor": 2.85,
               "unidade": "RAZAO",
               "percentilSetor": 47,
-              "medianaSetor": 2.63,
+              "medianaSetor": 2.64,
               "comparacaoSetorial": false,
               "direcao": "MENOR_MELHOR",
               "fonte": "Formulário de Referência CVM, exercício 2025"
@@ -2511,7 +2511,7 @@
         {
           "tipo": "SOCIAL",
           "semaforo": "AMARELO",
-          "pontuacao": 61.8,
+          "pontuacao": 61.5,
           "indicadores": [
             {
               "id": "mulheres_conselho",
@@ -2529,8 +2529,8 @@
               "rotulo": "Pessoas negras na liderança",
               "valor": 22.88,
               "unidade": "PERCENTUAL",
-              "percentilSetor": 50,
-              "medianaSetor": 23.11,
+              "percentilSetor": 49,
+              "medianaSetor": 23.32,
               "comparacaoSetorial": false,
               "direcao": "MAIOR_MELHOR",
               "fonte": "Formulário de Referência CVM, exercício 2025"
@@ -2541,7 +2541,7 @@
               "valor": 22.54,
               "unidade": "PERCENTUAL",
               "percentilSetor": 26,
-              "medianaSetor": 16.39,
+              "medianaSetor": 16.4,
               "comparacaoSetorial": false,
               "direcao": "MENOR_MELHOR",
               "fonte": "Formulário de Referência CVM, exercício 2025"
@@ -2552,7 +2552,7 @@
               "valor": 8.17,
               "unidade": "PERCENTUAL",
               "percentilSetor": 99,
-              "medianaSetor": 2.25,
+              "medianaSetor": 2.26,
               "comparacaoSetorial": false,
               "direcao": "MAIOR_MELHOR",
               "fonte": "Formulário de Referência CVM, exercício 2025"
@@ -2570,7 +2570,7 @@
               "valor": 3.85,
               "unidade": "RAZAO",
               "percentilSetor": 34,
-              "medianaSetor": 2.63,
+              "medianaSetor": 2.64,
               "comparacaoSetorial": false,
               "direcao": "MENOR_MELHOR",
               "fonte": "Formulário de Referência CVM, exercício 2025"
@@ -2761,14 +2761,14 @@
         {
           "tipo": "SOCIAL",
           "semaforo": "AMARELO",
-          "pontuacao": 62.5,
+          "pontuacao": 63.0,
           "indicadores": [
             {
               "id": "mulheres_conselho",
               "rotulo": "Mulheres no Conselho de Administração",
               "valor": 28.57,
               "unidade": "PERCENTUAL",
-              "percentilSetor": 80,
+              "percentilSetor": 81,
               "medianaSetor": 11.11,
               "comparacaoSetorial": false,
               "direcao": "MAIOR_MELHOR",
@@ -2780,7 +2780,7 @@
               "valor": 26.88,
               "unidade": "PERCENTUAL",
               "percentilSetor": 55,
-              "medianaSetor": 23.11,
+              "medianaSetor": 23.32,
               "comparacaoSetorial": false,
               "direcao": "MAIOR_MELHOR",
               "fonte": "Formulário de Referência CVM, exercício 2025"
@@ -2790,8 +2790,8 @@
               "rotulo": "Queda da diversidade racial na liderança",
               "valor": 13.47,
               "unidade": "PERCENTUAL",
-              "percentilSetor": 59,
-              "medianaSetor": 16.39,
+              "percentilSetor": 60,
+              "medianaSetor": 16.4,
               "comparacaoSetorial": false,
               "direcao": "MENOR_MELHOR",
               "fonte": "Formulário de Referência CVM, exercício 2025"
@@ -2802,7 +2802,7 @@
               "valor": 2.78,
               "unidade": "PERCENTUAL",
               "percentilSetor": 56,
-              "medianaSetor": 2.25,
+              "medianaSetor": 2.26,
               "comparacaoSetorial": false,
               "direcao": "MAIOR_MELHOR",
               "fonte": "Formulário de Referência CVM, exercício 2025"
@@ -2820,7 +2820,7 @@
               "valor": 3.61,
               "unidade": "RAZAO",
               "percentilSetor": 37,
-              "medianaSetor": 2.63,
+              "medianaSetor": 2.64,
               "comparacaoSetorial": false,
               "direcao": "MENOR_MELHOR",
               "fonte": "Formulário de Referência CVM, exercício 2025"
@@ -3798,7 +3798,7 @@
         {
           "tipo": "SOCIAL",
           "semaforo": "AMARELO",
-          "pontuacao": 42.8,
+          "pontuacao": 42.5,
           "indicadores": [
             {
               "id": "mulheres_conselho",
@@ -3816,8 +3816,8 @@
               "rotulo": "Pessoas negras na liderança",
               "valor": 13.76,
               "unidade": "PERCENTUAL",
-              "percentilSetor": 30,
-              "medianaSetor": 23.11,
+              "percentilSetor": 29,
+              "medianaSetor": 23.32,
               "comparacaoSetorial": false,
               "direcao": "MAIOR_MELHOR",
               "fonte": "Formulário de Referência CVM, exercício 2025"
@@ -3828,7 +3828,7 @@
               "valor": 21.4,
               "unidade": "PERCENTUAL",
               "percentilSetor": 31,
-              "medianaSetor": 16.39,
+              "medianaSetor": 16.4,
               "comparacaoSetorial": false,
               "direcao": "MENOR_MELHOR",
               "fonte": "Formulário de Referência CVM, exercício 2025"
@@ -3839,7 +3839,7 @@
               "valor": 6.06,
               "unidade": "PERCENTUAL",
               "percentilSetor": 98,
-              "medianaSetor": 2.25,
+              "medianaSetor": 2.26,
               "comparacaoSetorial": false,
               "direcao": "MAIOR_MELHOR",
               "fonte": "Formulário de Referência CVM, exercício 2025"
@@ -3857,7 +3857,7 @@
               "valor": 3.28,
               "unidade": "RAZAO",
               "percentilSetor": 41,
-              "medianaSetor": 2.63,
+              "medianaSetor": 2.64,
               "comparacaoSetorial": false,
               "direcao": "MENOR_MELHOR",
               "fonte": "Formulário de Referência CVM, exercício 2025"
@@ -3942,7 +3942,7 @@
               "valor": 35.71,
               "unidade": "PERCENTUAL",
               "percentilSetor": 70,
-              "medianaSetor": 23.11,
+              "medianaSetor": 23.32,
               "comparacaoSetorial": false,
               "direcao": "MAIOR_MELHOR",
               "fonte": "Formulário de Referência CVM, exercício 2025"
@@ -3953,7 +3953,7 @@
               "valor": 16.79,
               "unidade": "PERCENTUAL",
               "percentilSetor": 48,
-              "medianaSetor": 16.39,
+              "medianaSetor": 16.4,
               "comparacaoSetorial": false,
               "direcao": "MENOR_MELHOR",
               "fonte": "Formulário de Referência CVM, exercício 2025"
@@ -3964,7 +3964,7 @@
               "valor": 2.39,
               "unidade": "PERCENTUAL",
               "percentilSetor": 52,
-              "medianaSetor": 2.25,
+              "medianaSetor": 2.26,
               "comparacaoSetorial": false,
               "direcao": "MAIOR_MELHOR",
               "fonte": "Formulário de Referência CVM, exercício 2025"
@@ -3974,15 +3974,15 @@
         {
           "tipo": "GOVERNANCA",
           "semaforo": "VERDE",
-          "pontuacao": 72.8,
+          "pontuacao": 73.0,
           "indicadores": [
             {
               "id": "razao_remuneracao",
               "rotulo": "Diferença entre a maior e a menor remuneração da diretoria",
               "valor": 3.79,
               "unidade": "RAZAO",
-              "percentilSetor": 34,
-              "medianaSetor": 2.63,
+              "percentilSetor": 35,
+              "medianaSetor": 2.64,
               "comparacaoSetorial": false,
               "direcao": "MENOR_MELHOR",
               "fonte": "Formulário de Referência CVM, exercício 2025"
@@ -4180,7 +4180,7 @@
         {
           "tipo": "SOCIAL",
           "semaforo": "AMARELO",
-          "pontuacao": 62.5,
+          "pontuacao": 62.2,
           "indicadores": [
             {
               "id": "mulheres_conselho",
@@ -4199,7 +4199,7 @@
               "valor": 23.63,
               "unidade": "PERCENTUAL",
               "percentilSetor": 50,
-              "medianaSetor": 23.11,
+              "medianaSetor": 23.32,
               "comparacaoSetorial": false,
               "direcao": "MAIOR_MELHOR",
               "fonte": "Formulário de Referência CVM, exercício 2025"
@@ -4210,7 +4210,7 @@
               "valor": 9.93,
               "unidade": "PERCENTUAL",
               "percentilSetor": 72,
-              "medianaSetor": 16.39,
+              "medianaSetor": 16.4,
               "comparacaoSetorial": false,
               "direcao": "MENOR_MELHOR",
               "fonte": "Formulário de Referência CVM, exercício 2025"
@@ -4220,8 +4220,8 @@
               "rotulo": "Empregados com deficiência",
               "valor": 2.24,
               "unidade": "PERCENTUAL",
-              "percentilSetor": 50,
-              "medianaSetor": 2.25,
+              "percentilSetor": 49,
+              "medianaSetor": 2.26,
               "comparacaoSetorial": false,
               "direcao": "MAIOR_MELHOR",
               "fonte": "Formulário de Referência CVM, exercício 2025"
@@ -4239,7 +4239,7 @@
               "valor": 1.25,
               "unidade": "RAZAO",
               "percentilSetor": 85,
-              "medianaSetor": 2.63,
+              "medianaSetor": 2.64,
               "comparacaoSetorial": false,
               "direcao": "MENOR_MELHOR",
               "fonte": "Formulário de Referência CVM, exercício 2025"
@@ -4462,7 +4462,7 @@
               "valor": 21.46,
               "unidade": "PERCENTUAL",
               "percentilSetor": 46,
-              "medianaSetor": 23.11,
+              "medianaSetor": 23.32,
               "comparacaoSetorial": false,
               "direcao": "MAIOR_MELHOR",
               "fonte": "Formulário de Referência CVM, exercício 2025"
@@ -4473,7 +4473,7 @@
               "valor": 18.36,
               "unidade": "PERCENTUAL",
               "percentilSetor": 41,
-              "medianaSetor": 16.39,
+              "medianaSetor": 16.4,
               "comparacaoSetorial": false,
               "direcao": "MENOR_MELHOR",
               "fonte": "Formulário de Referência CVM, exercício 2025"
@@ -4484,7 +4484,7 @@
               "valor": 4.58,
               "unidade": "PERCENTUAL",
               "percentilSetor": 85,
-              "medianaSetor": 2.25,
+              "medianaSetor": 2.26,
               "comparacaoSetorial": false,
               "direcao": "MAIOR_MELHOR",
               "fonte": "Formulário de Referência CVM, exercício 2025"
@@ -4502,7 +4502,7 @@
               "valor": 1.0,
               "unidade": "RAZAO",
               "percentilSetor": 93,
-              "medianaSetor": 2.63,
+              "medianaSetor": 2.64,
               "comparacaoSetorial": false,
               "direcao": "MENOR_MELHOR",
               "fonte": "Formulário de Referência CVM, exercício 2025"
@@ -5200,7 +5200,7 @@
               "valor": 27.9,
               "unidade": "PERCENTUAL",
               "percentilSetor": 57,
-              "medianaSetor": 23.11,
+              "medianaSetor": 23.32,
               "comparacaoSetorial": false,
               "direcao": "MAIOR_MELHOR",
               "fonte": "Formulário de Referência CVM, exercício 2025"
@@ -5211,7 +5211,7 @@
               "valor": 23.51,
               "unidade": "PERCENTUAL",
               "percentilSetor": 22,
-              "medianaSetor": 16.39,
+              "medianaSetor": 16.4,
               "comparacaoSetorial": false,
               "direcao": "MENOR_MELHOR",
               "fonte": "Formulário de Referência CVM, exercício 2025"
@@ -5222,7 +5222,7 @@
               "valor": 3.82,
               "unidade": "PERCENTUAL",
               "percentilSetor": 72,
-              "medianaSetor": 2.25,
+              "medianaSetor": 2.26,
               "comparacaoSetorial": false,
               "direcao": "MAIOR_MELHOR",
               "fonte": "Formulário de Referência CVM, exercício 2025"
@@ -5240,7 +5240,7 @@
               "valor": 3.24,
               "unidade": "RAZAO",
               "percentilSetor": 42,
-              "medianaSetor": 2.63,
+              "medianaSetor": 2.64,
               "comparacaoSetorial": false,
               "direcao": "MENOR_MELHOR",
               "fonte": "Formulário de Referência CVM, exercício 2025"
@@ -5449,7 +5449,7 @@
               "valor": 25.19,
               "unidade": "PERCENTUAL",
               "percentilSetor": 53,
-              "medianaSetor": 23.11,
+              "medianaSetor": 23.32,
               "comparacaoSetorial": false,
               "direcao": "MAIOR_MELHOR",
               "fonte": "Formulário de Referência CVM, exercício 2025"
@@ -5460,7 +5460,7 @@
               "valor": 26.98,
               "unidade": "PERCENTUAL",
               "percentilSetor": 14,
-              "medianaSetor": 16.39,
+              "medianaSetor": 16.4,
               "comparacaoSetorial": false,
               "direcao": "MENOR_MELHOR",
               "fonte": "Formulário de Referência CVM, exercício 2025"
@@ -5471,7 +5471,7 @@
               "valor": 3.79,
               "unidade": "PERCENTUAL",
               "percentilSetor": 71,
-              "medianaSetor": 2.25,
+              "medianaSetor": 2.26,
               "comparacaoSetorial": false,
               "direcao": "MAIOR_MELHOR",
               "fonte": "Formulário de Referência CVM, exercício 2025"
@@ -5489,7 +5489,7 @@
               "valor": 7.38,
               "unidade": "RAZAO",
               "percentilSetor": 13,
-              "medianaSetor": 2.63,
+              "medianaSetor": 2.64,
               "comparacaoSetorial": false,
               "direcao": "MENOR_MELHOR",
               "fonte": "Formulário de Referência CVM, exercício 2025"
@@ -5596,7 +5596,7 @@
               "valor": 2.65,
               "unidade": "PERCENTUAL",
               "percentilSetor": 55,
-              "medianaSetor": 2.25,
+              "medianaSetor": 2.26,
               "comparacaoSetorial": false,
               "direcao": "MAIOR_MELHOR",
               "fonte": "Formulário de Referência CVM, exercício 2025"
@@ -5697,7 +5697,7 @@
               "valor": 32.43,
               "unidade": "PERCENTUAL",
               "percentilSetor": 65,
-              "medianaSetor": 23.11,
+              "medianaSetor": 23.32,
               "comparacaoSetorial": false,
               "direcao": "MAIOR_MELHOR",
               "fonte": "Formulário de Referência CVM, exercício 2025"
@@ -5708,7 +5708,7 @@
               "valor": 25.09,
               "unidade": "PERCENTUAL",
               "percentilSetor": 18,
-              "medianaSetor": 16.39,
+              "medianaSetor": 16.4,
               "comparacaoSetorial": false,
               "direcao": "MENOR_MELHOR",
               "fonte": "Formulário de Referência CVM, exercício 2025"
@@ -5719,7 +5719,7 @@
               "valor": 3.98,
               "unidade": "PERCENTUAL",
               "percentilSetor": 76,
-              "medianaSetor": 2.25,
+              "medianaSetor": 2.26,
               "comparacaoSetorial": false,
               "direcao": "MAIOR_MELHOR",
               "fonte": "Formulário de Referência CVM, exercício 2025"
@@ -5737,7 +5737,7 @@
               "valor": 5.81,
               "unidade": "RAZAO",
               "percentilSetor": 21,
-              "medianaSetor": 2.63,
+              "medianaSetor": 2.64,
               "comparacaoSetorial": false,
               "direcao": "MENOR_MELHOR",
               "fonte": "Formulário de Referência CVM, exercício 2025"
@@ -6066,7 +6066,7 @@
               "valor": 35.71,
               "unidade": "PERCENTUAL",
               "percentilSetor": 70,
-              "medianaSetor": 23.11,
+              "medianaSetor": 23.32,
               "comparacaoSetorial": false,
               "direcao": "MAIOR_MELHOR",
               "fonte": "Formulário de Referência CVM, exercício 2025"
@@ -6077,7 +6077,7 @@
               "valor": 23.67,
               "unidade": "PERCENTUAL",
               "percentilSetor": 21,
-              "medianaSetor": 16.39,
+              "medianaSetor": 16.4,
               "comparacaoSetorial": false,
               "direcao": "MENOR_MELHOR",
               "fonte": "Formulário de Referência CVM, exercício 2025"
@@ -6088,7 +6088,7 @@
               "valor": 4.73,
               "unidade": "PERCENTUAL",
               "percentilSetor": 88,
-              "medianaSetor": 2.25,
+              "medianaSetor": 2.26,
               "comparacaoSetorial": false,
               "direcao": "MAIOR_MELHOR",
               "fonte": "Formulário de Referência CVM, exercício 2025"
@@ -6106,7 +6106,7 @@
               "valor": 6.84,
               "unidade": "RAZAO",
               "percentilSetor": 15,
-              "medianaSetor": 2.63,
+              "medianaSetor": 2.64,
               "comparacaoSetorial": false,
               "direcao": "MENOR_MELHOR",
               "fonte": "Formulário de Referência CVM, exercício 2025"
@@ -6296,7 +6296,7 @@
         {
           "tipo": "SOCIAL",
           "semaforo": "AMARELO",
-          "pontuacao": 39.8,
+          "pontuacao": 40.0,
           "indicadores": [
             {
               "id": "mulheres_conselho",
@@ -6315,7 +6315,7 @@
               "valor": 2.65,
               "unidade": "PERCENTUAL",
               "percentilSetor": 10,
-              "medianaSetor": 23.11,
+              "medianaSetor": 23.32,
               "comparacaoSetorial": false,
               "direcao": "MAIOR_MELHOR",
               "fonte": "Formulário de Referência CVM, exercício 2025"
@@ -6325,8 +6325,8 @@
               "rotulo": "Queda da diversidade racial na liderança",
               "valor": 21.83,
               "unidade": "PERCENTUAL",
-              "percentilSetor": 28,
-              "medianaSetor": 16.39,
+              "percentilSetor": 29,
+              "medianaSetor": 16.4,
               "comparacaoSetorial": false,
               "direcao": "MENOR_MELHOR",
               "fonte": "Formulário de Referência CVM, exercício 2025"
@@ -6337,7 +6337,7 @@
               "valor": 3.56,
               "unidade": "PERCENTUAL",
               "percentilSetor": 68,
-              "medianaSetor": 2.25,
+              "medianaSetor": 2.26,
               "comparacaoSetorial": false,
               "direcao": "MAIOR_MELHOR",
               "fonte": "Formulário de Referência CVM, exercício 2025"
@@ -6355,7 +6355,7 @@
               "valor": 2.42,
               "unidade": "RAZAO",
               "percentilSetor": 56,
-              "medianaSetor": 2.63,
+              "medianaSetor": 2.64,
               "comparacaoSetorial": false,
               "direcao": "MENOR_MELHOR",
               "fonte": "Formulário de Referência CVM, exercício 2025"
