@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "geradoEm": "2026-10-26",
+  "geradoEm": "2026-11-02",
   "referenciaCvm": "FRE 2025",
   "empresas": [
     {
@@ -797,14 +797,14 @@
         {
           "tipo": "SOCIAL",
           "semaforo": "AMARELO",
-          "pontuacao": 34.0,
+          "pontuacao": 34.2,
           "indicadores": [
             {
               "id": "mulheres_conselho",
               "rotulo": "Mulheres no Conselho de Administração",
               "valor": 9.09,
               "unidade": "PERCENTUAL",
-              "percentilSetor": 46,
+              "percentilSetor": 47,
               "medianaSetor": 11.11,
               "comparacaoSetorial": false,
               "direcao": "MAIOR_MELHOR",
